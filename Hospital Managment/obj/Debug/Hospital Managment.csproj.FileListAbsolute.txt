@@ -1,0 +1,98 @@
+C:\Users\ASUS\Downloads\Hospital Managment\Hospital Managment\Hospital Managment\obj\Debug\Hospital Managment.csproj.AssemblyReference.cache
+D:\SE C# Codes\Hospital Managment\Hospital Managment\Hospital Managment\obj\Debug\Hospital Managment.csproj.AssemblyReference.cache
+D:\SE C# Codes\Hospital Managment\Hospital Managment\Hospital Managment\obj\Debug\Hospital_Managment.add_new_patient.resources
+D:\SE C# Codes\Hospital Managment\Hospital Managment\Hospital Managment\obj\Debug\Hospital_Managment.Main_form.resources
+D:\SE C# Codes\Hospital Managment\Hospital Managment\Hospital Managment\obj\Debug\Hospital_Managment.Properties.Resources.resources
+D:\SE C# Codes\Hospital Managment\Hospital Managment\Hospital Managment\obj\Debug\Hospital_Managment.sign_in_form.resources
+D:\SE C# Codes\Hospital Managment\Hospital Managment\Hospital Managment\obj\Debug\Hospital Managment.csproj.GenerateResource.cache
+D:\SE C# Codes\Hospital Managment\Hospital Managment\Hospital Managment\obj\Debug\Hospital Managment.csproj.CoreCompileInputs.cache
+C:\Users\CM\Desktop\Hospital Managment\Hospital Managment\Hospital Managment\obj\Debug\Hospital Managment.csproj.AssemblyReference.cache
+C:\Users\CM\Desktop\Hospital Managment\Hospital Managment\Hospital Managment\obj\Debug\Hospital Managment.csproj.SuggestedBindingRedirects.cache
+C:\Users\CM\Desktop\Hospital Managment\Hospital Managment\Hospital Managment\obj\Debug\Hospital_Managment.add_new_patient.resources
+C:\Users\CM\Desktop\Hospital Managment\Hospital Managment\Hospital Managment\obj\Debug\Hospital_Managment.Display_all_patients.resources
+C:\Users\CM\Desktop\Hospital Managment\Hospital Managment\Hospital Managment\obj\Debug\Hospital_Managment.next_p_form.resources
+C:\Users\CM\Desktop\Hospital Managment\Hospital Managment\Hospital Managment\obj\Debug\Hospital_Managment.clinic_queue.resources
+C:\Users\CM\Desktop\Hospital Managment\Hospital Managment\Hospital Managment\obj\Debug\Hospital_Managment.Main_form.resources
+C:\Users\CM\Desktop\Hospital Managment\Hospital Managment\Hospital Managment\obj\Debug\Hospital_Managment.Properties.Resources.resources
+C:\Users\CM\Desktop\Hospital Managment\Hospital Managment\Hospital Managment\obj\Debug\Hospital_Managment.sign_in_form.resources
+C:\Users\CM\Desktop\Hospital Managment\Hospital Managment\Hospital Managment\obj\Debug\Hospital Managment.csproj.GenerateResource.cache
+C:\Users\CM\Desktop\Hospital Managment\Hospital Managment\Hospital Managment\obj\Debug\Hospital Managment.csproj.CoreCompileInputs.cache
+C:\Users\CM\Desktop\Hospital Managment\Hospital Managment\Hospital Managment\bin\Debug\Hospital Managment.exe.config
+C:\Users\CM\Desktop\Hospital Managment\Hospital Managment\Hospital Managment\bin\Debug\Hospital Managment.exe
+C:\Users\CM\Desktop\Hospital Managment\Hospital Managment\Hospital Managment\bin\Debug\Hospital Managment.pdb
+C:\Users\CM\Desktop\Hospital Managment\Hospital Managment\Hospital Managment\obj\Debug\Hospital Managment.exe
+C:\Users\CM\Desktop\Hospital Managment\Hospital Managment\Hospital Managment\obj\Debug\Hospital Managment.pdb
+C:\Users\CM\Desktop\Hospital Managment\Hospital Managment\Hospital Managment\obj\Debug\Hospital_Managment.payment_history_form.resources
+G:\Hospital Managment\Hospital Managment\Hospital Managment\bin\Debug\Hospital Managment.exe.config
+G:\Hospital Managment\Hospital Managment\Hospital Managment\bin\Debug\Hospital Managment.exe
+G:\Hospital Managment\Hospital Managment\Hospital Managment\bin\Debug\Hospital Managment.pdb
+G:\Hospital Managment\Hospital Managment\Hospital Managment\obj\Debug\Hospital Managment.csproj.AssemblyReference.cache
+G:\Hospital Managment\Hospital Managment\Hospital Managment\obj\Debug\Hospital_Managment.add_new_patient.resources
+G:\Hospital Managment\Hospital Managment\Hospital Managment\obj\Debug\Hospital_Managment.payment_history_form.resources
+G:\Hospital Managment\Hospital Managment\Hospital Managment\obj\Debug\Hospital_Managment.Display_all_patients.resources
+G:\Hospital Managment\Hospital Managment\Hospital Managment\obj\Debug\Hospital_Managment.next_p_form.resources
+G:\Hospital Managment\Hospital Managment\Hospital Managment\obj\Debug\Hospital_Managment.clinic_queue.resources
+G:\Hospital Managment\Hospital Managment\Hospital Managment\obj\Debug\Hospital_Managment.queue.resources
+G:\Hospital Managment\Hospital Managment\Hospital Managment\obj\Debug\Hospital_Managment.Main_form.resources
+G:\Hospital Managment\Hospital Managment\Hospital Managment\obj\Debug\Hospital_Managment.Properties.Resources.resources
+G:\Hospital Managment\Hospital Managment\Hospital Managment\obj\Debug\Hospital_Managment.sign_in_form.resources
+G:\Hospital Managment\Hospital Managment\Hospital Managment\obj\Debug\Hospital Managment.csproj.GenerateResource.cache
+G:\Hospital Managment\Hospital Managment\Hospital Managment\obj\Debug\Hospital Managment.csproj.CoreCompileInputs.cache
+G:\Hospital Managment\Hospital Managment\Hospital Managment\obj\Debug\Hospital Managment.exe
+G:\Hospital Managment\Hospital Managment\Hospital Managment\obj\Debug\Hospital Managment.pdb
+C:\Users\CM\Desktop\Hospital Managment By Ammour san\Hospital Managment\Hospital Managment\bin\Debug\Hospital Managment.exe.config
+C:\Users\CM\Desktop\Hospital Managment By Ammour san\Hospital Managment\Hospital Managment\bin\Debug\Hospital Managment.exe
+C:\Users\CM\Desktop\Hospital Managment By Ammour san\Hospital Managment\Hospital Managment\bin\Debug\Hospital Managment.pdb
+C:\Users\CM\Desktop\Hospital Managment By Ammour san\Hospital Managment\Hospital Managment\obj\Debug\Hospital Managment.csproj.AssemblyReference.cache
+C:\Users\CM\Desktop\Hospital Managment By Ammour san\Hospital Managment\Hospital Managment\obj\Debug\Hospital Managment.csproj.SuggestedBindingRedirects.cache
+C:\Users\CM\Desktop\Hospital Managment By Ammour san\Hospital Managment\Hospital Managment\obj\Debug\Hospital_Managment.add_new_patient.resources
+C:\Users\CM\Desktop\Hospital Managment By Ammour san\Hospital Managment\Hospital Managment\obj\Debug\Hospital_Managment.payment_history_form.resources
+C:\Users\CM\Desktop\Hospital Managment By Ammour san\Hospital Managment\Hospital Managment\obj\Debug\Hospital_Managment.Display_all_patients.resources
+C:\Users\CM\Desktop\Hospital Managment By Ammour san\Hospital Managment\Hospital Managment\obj\Debug\Hospital_Managment.next_p_form.resources
+C:\Users\CM\Desktop\Hospital Managment By Ammour san\Hospital Managment\Hospital Managment\obj\Debug\Hospital_Managment.clinic_queue.resources
+C:\Users\CM\Desktop\Hospital Managment By Ammour san\Hospital Managment\Hospital Managment\obj\Debug\Hospital_Managment.Main_form.resources
+C:\Users\CM\Desktop\Hospital Managment By Ammour san\Hospital Managment\Hospital Managment\obj\Debug\Hospital_Managment.Properties.Resources.resources
+C:\Users\CM\Desktop\Hospital Managment By Ammour san\Hospital Managment\Hospital Managment\obj\Debug\Hospital_Managment.sign_in_form.resources
+C:\Users\CM\Desktop\Hospital Managment By Ammour san\Hospital Managment\Hospital Managment\obj\Debug\Hospital Managment.csproj.GenerateResource.cache
+C:\Users\CM\Desktop\Hospital Managment By Ammour san\Hospital Managment\Hospital Managment\obj\Debug\Hospital Managment.csproj.CoreCompileInputs.cache
+C:\Users\CM\Desktop\Hospital Managment By Ammour san\Hospital Managment\Hospital Managment\obj\Debug\Hospital Managment.exe
+C:\Users\CM\Desktop\Hospital Managment By Ammour san\Hospital Managment\Hospital Managment\obj\Debug\Hospital Managment.pdb
+C:\Users\CM\Desktop\Hospital Managment By Ammour san\Hospital Managment\Hospital Managment\obj\Debug\Hospital_Managment.select_queue.resources
+C:\Users\CM\Desktop\Hospital Managment\Hospital Managment\Hospital Managment\obj\Debug\Hospital_Managment.select_queue.resources
+C:\Users\CM\Desktop\Hospital Managment\Hospital Managment\Hospital Managment\bin\Debug\AWSSDK.Core.dll
+C:\Users\CM\Desktop\Hospital Managment\Hospital Managment\Hospital Managment\bin\Debug\AWSSDK.SecurityToken.dll
+C:\Users\CM\Desktop\Hospital Managment\Hospital Managment\Hospital Managment\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\CM\Desktop\Hospital Managment\Hospital Managment\Hospital Managment\bin\Debug\AWSSDK.Core.pdb
+C:\Users\CM\Desktop\Hospital Managment\Hospital Managment\Hospital Managment\bin\Debug\AWSSDK.Core.xml
+C:\Users\CM\Desktop\Hospital Managment\Hospital Managment\Hospital Managment\bin\Debug\AWSSDK.SecurityToken.pdb
+C:\Users\CM\Desktop\Hospital Managment\Hospital Managment\Hospital Managment\bin\Debug\AWSSDK.SecurityToken.xml
+C:\Users\CM\Desktop\Hospital Managment\Hospital Managment\Hospital Managment\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\CM\Desktop\Hospital Managment\Hospital Managment\Hospital Managment\obj\Debug\Hospital Managment.csproj.CopyComplete
+D:\SE C# Codes\project full\Hospital Managment\Hospital Managment\Hospital Managment\bin\Debug\Hospital Managment.exe.config
+D:\SE C# Codes\project full\Hospital Managment\Hospital Managment\Hospital Managment\bin\Debug\Hospital Managment.exe
+D:\SE C# Codes\project full\Hospital Managment\Hospital Managment\Hospital Managment\bin\Debug\Hospital Managment.pdb
+D:\SE C# Codes\project full\Hospital Managment\Hospital Managment\Hospital Managment\bin\Debug\AWSSDK.Core.dll
+D:\SE C# Codes\project full\Hospital Managment\Hospital Managment\Hospital Managment\bin\Debug\AWSSDK.SecurityToken.dll
+D:\SE C# Codes\project full\Hospital Managment\Hospital Managment\Hospital Managment\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\SE C# Codes\project full\Hospital Managment\Hospital Managment\Hospital Managment\bin\Debug\AWSSDK.Core.pdb
+D:\SE C# Codes\project full\Hospital Managment\Hospital Managment\Hospital Managment\bin\Debug\AWSSDK.Core.xml
+D:\SE C# Codes\project full\Hospital Managment\Hospital Managment\Hospital Managment\bin\Debug\AWSSDK.SecurityToken.pdb
+D:\SE C# Codes\project full\Hospital Managment\Hospital Managment\Hospital Managment\bin\Debug\AWSSDK.SecurityToken.xml
+D:\SE C# Codes\project full\Hospital Managment\Hospital Managment\Hospital Managment\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\SE C# Codes\project full\Hospital Managment\Hospital Managment\Hospital Managment\obj\Debug\Hospital Managment.csproj.AssemblyReference.cache
+D:\SE C# Codes\project full\Hospital Managment\Hospital Managment\Hospital Managment\obj\Debug\Hospital_Managment.add_new_patient.resources
+D:\SE C# Codes\project full\Hospital Managment\Hospital Managment\Hospital Managment\obj\Debug\Hospital_Managment.clinic_queue.resources
+D:\SE C# Codes\project full\Hospital Managment\Hospital Managment\Hospital Managment\obj\Debug\Hospital_Managment.select_queue.resources
+D:\SE C# Codes\project full\Hospital Managment\Hospital Managment\Hospital Managment\obj\Debug\Hospital_Managment.payment_history_form.resources
+D:\SE C# Codes\project full\Hospital Managment\Hospital Managment\Hospital Managment\obj\Debug\Hospital_Managment.Display_all_patients.resources
+D:\SE C# Codes\project full\Hospital Managment\Hospital Managment\Hospital Managment\obj\Debug\Hospital_Managment.next_p_form.resources
+D:\SE C# Codes\project full\Hospital Managment\Hospital Managment\Hospital Managment\obj\Debug\Hospital_Managment.Main_form.resources
+D:\SE C# Codes\project full\Hospital Managment\Hospital Managment\Hospital Managment\obj\Debug\Hospital_Managment.Properties.Resources.resources
+D:\SE C# Codes\project full\Hospital Managment\Hospital Managment\Hospital Managment\obj\Debug\Hospital_Managment.sign_in_form.resources
+D:\SE C# Codes\project full\Hospital Managment\Hospital Managment\Hospital Managment\obj\Debug\Hospital Managment.csproj.GenerateResource.cache
+D:\SE C# Codes\project full\Hospital Managment\Hospital Managment\Hospital Managment\obj\Debug\Hospital Managment.csproj.CoreCompileInputs.cache
+D:\SE C# Codes\project full\Hospital Managment\Hospital Managment\Hospital Managment\obj\Debug\Hospital Managment.csproj.CopyComplete
+D:\SE C# Codes\project full\Hospital Managment\Hospital Managment\Hospital Managment\obj\Debug\Hospital Managment.exe
+D:\SE C# Codes\project full\Hospital Managment\Hospital Managment\Hospital Managment\obj\Debug\Hospital Managment.pdb
+D:\SE C# Codes\project full\Hospital Managment\Hospital Managment\Hospital Managment\bin\Debug\Patients.mdf
+D:\SE C# Codes\project full\Hospital Managment\Hospital Managment\Hospital Managment\bin\Debug\Patients_log.ldf
